@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../portfolio/assets"
+		},
+		{
+			"path": "../../portfolio/styles"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "styles"
+	}
+}
